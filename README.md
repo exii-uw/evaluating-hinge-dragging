@@ -1,6 +1,8 @@
 # evaluating-hinge-dragging
 
-Supplement Materials for "Evaluating Across-Hinge Dragging with Pen and Touch on Curved and Foldable Displays" (CHI 2023 submission).
+Supplementary materials for the CHI 2023 paper:
+
+> Graeme Zinck, Roya Cody, Che (Shino) Yan, Da-Yuan Huang, Wei Li, and Daniel Vogel. *Evaluating Across-Hinge Dragging with Pen and Touch on Curved and Foldable Displays.* CHI 2023.
 
 ## Project Structure
 
